@@ -1,3 +1,4 @@
+
 .tarolo{
     display: flex;
     width: 800px;
@@ -33,11 +34,13 @@
     align-items: center;
     gap: 5px;
     list-style-type: none;
+    padding-left: 0px;
 }
 .lista_1 :nth-child(1){
     background-color: purple;
     height: 100px;
     width: 100px;
+    
 
 }
 .lista_1 :nth-child(2){
@@ -55,6 +58,7 @@
     background-color: purple;
     height: 100px;
     width: 100px;
+    
 }
 .lista_2{
     display: flex;
@@ -65,6 +69,7 @@
     list-style-type: none;
     justify-content: space-between;
     padding-left: 0px;
+
 }
 .lista_2 :nth-child(1){
     background-color: purple;
